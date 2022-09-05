@@ -11639,3 +11639,17 @@ footer.footer .social-link:hover {
   display: block;
   max-width: 30rem;
 }
+
+.hobi {
+  padding: 15rem 0;
+  background-color:greenyellow; 
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hobi h2, .hobi .h2 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  display: block;
+  max-width: 30rem;
+}
